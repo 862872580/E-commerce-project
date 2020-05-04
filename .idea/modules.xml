@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/code/leyouZuul/leyou.iml" filepath="$PROJECT_DIR$/code/leyouZuul/leyou.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/leyouClient/leyou (1).iml" filepath="$PROJECT_DIR$/code/leyouClient/leyou (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/leyouOrder/leyou (2).iml" filepath="$PROJECT_DIR$/code/leyouOrder/leyou (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/leyouServer/leyou (3).iml" filepath="$PROJECT_DIR$/code/leyouServer/leyou (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/leyouStock/leyou (4).iml" filepath="$PROJECT_DIR$/code/leyouStock/leyou (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/leyouStorage/leyou (5).iml" filepath="$PROJECT_DIR$/code/leyouStorage/leyou (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/leyouTimeServer/leyou (6).iml" filepath="$PROJECT_DIR$/code/leyouTimeServer/leyou (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/leyouUser/leyou (7).iml" filepath="$PROJECT_DIR$/code/leyouUser/leyou (7).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/电商项目.iml" filepath="$PROJECT_DIR$/.idea/电商项目.iml" />
+    </modules>
+  </component>
+</project>
